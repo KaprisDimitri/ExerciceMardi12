@@ -1,0 +1,16 @@
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\obj\Debug\net5.0\ExoAgeDisplay.csproj.AssemblyReference.cache
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\obj\Debug\net5.0\ExoAgeDisplay.GeneratedMSBuildEditorConfig.editorconfig
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\obj\Debug\net5.0\ExoAgeDisplay.AssemblyInfoInputs.cache
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\obj\Debug\net5.0\ExoAgeDisplay.AssemblyInfo.cs
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\obj\Debug\net5.0\ExoAgeDisplay.csproj.CoreCompileInputs.cache
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\bin\Debug\net5.0\ExoAgeDisplay.exe
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\bin\Debug\net5.0\ExoAgeDisplay.deps.json
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\bin\Debug\net5.0\ExoAgeDisplay.runtimeconfig.json
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\bin\Debug\net5.0\ExoAgeDisplay.runtimeconfig.dev.json
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\bin\Debug\net5.0\ExoAgeDisplay.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\bin\Debug\net5.0\ref\ExoAgeDisplay.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\bin\Debug\net5.0\ExoAgeDisplay.pdb
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\obj\Debug\net5.0\ExoAgeDisplay.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\obj\Debug\net5.0\ref\ExoAgeDisplay.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\obj\Debug\net5.0\ExoAgeDisplay.pdb
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExoAgeDisplay\obj\Debug\net5.0\ExoAgeDisplay.genruntimeconfig.cache

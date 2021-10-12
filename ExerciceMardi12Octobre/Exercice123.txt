@@ -1,0 +1,38 @@
+Exo 1 : "Identifiant valide" - Dire si la declaration est valide.
+
+1) Non valide car incompréhensible
+2) Valide
+3) Non valide car il y a un _ et le deuxième mot n'as pas de majuscule (Convension de pascal)
+4) Valide
+5) Non valide car il y a un chiffre dans le nom de la variable
+6) Non valide car il y a une majuscule au premier mot
+
+Exo 2 : "Type resultat d'instruction" Donner le resultat et le type du resultat pour chacune des instructions suivantes:
+
+1) float = 5.5f
+2) byte = 3
+3) int = 2
+4) double = 3.5
+5) double = 6.5
+6) float = 4.5f
+7) float = 3.5f
+
+Exo 3 : "Initialisation valide", dire si la valeur assignée est valide.
+
+1) valide
+2) Non valide car short ne peut contenir des decimaux
+3) Non valide il faut un f a la valeur assigné
+4) Valide
+5) Valide
+6) Non valide le int ne peut etre une decimal et ne peut donc contenir le f (pour les float)
+7) Non valide le f est pour les float
+8) Non valide le int ne peut contenir de decimal
+9) Valide
+10) Valide
+11) Valide
+12) Non valide les long ne peuvent contenir des decimaux et donc ne peut avoir le f (pour float)
+13) Non valide il manque un f apres l assignation de la variable
+14) Non valide le short ne peut contenir de decimaux et ne peut avoir le f (pour float)
+15) Non valide le long en peut contenir de decimaux
+
+

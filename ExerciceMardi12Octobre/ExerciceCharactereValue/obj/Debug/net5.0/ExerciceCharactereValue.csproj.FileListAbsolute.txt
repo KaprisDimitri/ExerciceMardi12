@@ -1,0 +1,16 @@
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\bin\Debug\net5.0\ExerciceCharactereValue.exe
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\bin\Debug\net5.0\ExerciceCharactereValue.deps.json
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\bin\Debug\net5.0\ExerciceCharactereValue.runtimeconfig.json
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\bin\Debug\net5.0\ExerciceCharactereValue.runtimeconfig.dev.json
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\bin\Debug\net5.0\ExerciceCharactereValue.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\bin\Debug\net5.0\ref\ExerciceCharactereValue.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\bin\Debug\net5.0\ExerciceCharactereValue.pdb
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\obj\Debug\net5.0\ExerciceCharactereValue.csproj.AssemblyReference.cache
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\obj\Debug\net5.0\ExerciceCharactereValue.GeneratedMSBuildEditorConfig.editorconfig
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\obj\Debug\net5.0\ExerciceCharactereValue.AssemblyInfoInputs.cache
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\obj\Debug\net5.0\ExerciceCharactereValue.AssemblyInfo.cs
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\obj\Debug\net5.0\ExerciceCharactereValue.csproj.CoreCompileInputs.cache
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\obj\Debug\net5.0\ExerciceCharactereValue.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\obj\Debug\net5.0\ref\ExerciceCharactereValue.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\obj\Debug\net5.0\ExerciceCharactereValue.pdb
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceCharactereValue\obj\Debug\net5.0\ExerciceCharactereValue.genruntimeconfig.cache

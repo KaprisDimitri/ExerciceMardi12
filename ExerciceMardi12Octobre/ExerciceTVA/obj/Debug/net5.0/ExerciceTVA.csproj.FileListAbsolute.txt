@@ -1,0 +1,16 @@
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\bin\Debug\net5.0\ExerciceTVA.exe
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\bin\Debug\net5.0\ExerciceTVA.deps.json
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\bin\Debug\net5.0\ExerciceTVA.runtimeconfig.json
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\bin\Debug\net5.0\ExerciceTVA.runtimeconfig.dev.json
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\bin\Debug\net5.0\ExerciceTVA.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\bin\Debug\net5.0\ref\ExerciceTVA.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\bin\Debug\net5.0\ExerciceTVA.pdb
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\obj\Debug\net5.0\ExerciceTVA.csproj.AssemblyReference.cache
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\obj\Debug\net5.0\ExerciceTVA.GeneratedMSBuildEditorConfig.editorconfig
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\obj\Debug\net5.0\ExerciceTVA.AssemblyInfoInputs.cache
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\obj\Debug\net5.0\ExerciceTVA.AssemblyInfo.cs
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\obj\Debug\net5.0\ExerciceTVA.csproj.CoreCompileInputs.cache
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\obj\Debug\net5.0\ExerciceTVA.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\obj\Debug\net5.0\ref\ExerciceTVA.dll
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\obj\Debug\net5.0\ExerciceTVA.pdb
+E:\CopieDossierCoursC#\ExerciceMardi12Octobre\ExerciceTVA\obj\Debug\net5.0\ExerciceTVA.genruntimeconfig.cache
