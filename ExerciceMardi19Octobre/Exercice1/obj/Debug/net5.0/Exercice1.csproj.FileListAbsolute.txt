@@ -1,0 +1,16 @@
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\bin\Debug\net5.0\Exercice1.exe
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\bin\Debug\net5.0\Exercice1.deps.json
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\bin\Debug\net5.0\Exercice1.runtimeconfig.json
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\bin\Debug\net5.0\Exercice1.runtimeconfig.dev.json
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\bin\Debug\net5.0\Exercice1.dll
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\bin\Debug\net5.0\ref\Exercice1.dll
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\bin\Debug\net5.0\Exercice1.pdb
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\obj\Debug\net5.0\Exercice1.csproj.AssemblyReference.cache
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\obj\Debug\net5.0\Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\obj\Debug\net5.0\Exercice1.AssemblyInfoInputs.cache
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\obj\Debug\net5.0\Exercice1.AssemblyInfo.cs
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\obj\Debug\net5.0\Exercice1.csproj.CoreCompileInputs.cache
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\obj\Debug\net5.0\Exercice1.dll
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\obj\Debug\net5.0\ref\Exercice1.dll
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\obj\Debug\net5.0\Exercice1.pdb
+E:\CopieDossierCoursC#\Condition\ExerciceMardi19Octobre\Exercice1\obj\Debug\net5.0\Exercice1.genruntimeconfig.cache

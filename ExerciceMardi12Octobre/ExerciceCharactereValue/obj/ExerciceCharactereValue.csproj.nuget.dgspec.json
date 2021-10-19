@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CopieDossierCoursC#\\ExerciceMardi12Octobre\\ExerciceCharactereValue\\ExerciceCharactereValue.csproj": {}
+    "E:\\ExerciceMardi12\\ExerciceMardi12Octobre\\ExerciceCharactereValue\\ExerciceCharactereValue.csproj": {}
   },
   "projects": {
-    "E:\\CopieDossierCoursC#\\ExerciceMardi12Octobre\\ExerciceCharactereValue\\ExerciceCharactereValue.csproj": {
+    "E:\\ExerciceMardi12\\ExerciceMardi12Octobre\\ExerciceCharactereValue\\ExerciceCharactereValue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CopieDossierCoursC#\\ExerciceMardi12Octobre\\ExerciceCharactereValue\\ExerciceCharactereValue.csproj",
+        "projectUniqueName": "E:\\ExerciceMardi12\\ExerciceMardi12Octobre\\ExerciceCharactereValue\\ExerciceCharactereValue.csproj",
         "projectName": "ExerciceCharactereValue",
-        "projectPath": "E:\\CopieDossierCoursC#\\ExerciceMardi12Octobre\\ExerciceCharactereValue\\ExerciceCharactereValue.csproj",
+        "projectPath": "E:\\ExerciceMardi12\\ExerciceMardi12Octobre\\ExerciceCharactereValue\\ExerciceCharactereValue.csproj",
         "packagesPath": "C:\\Users\\kapri\\.nuget\\packages\\",
-        "outputPath": "E:\\CopieDossierCoursC#\\ExerciceMardi12Octobre\\ExerciceCharactereValue\\obj\\",
+        "outputPath": "E:\\ExerciceMardi12\\ExerciceMardi12Octobre\\ExerciceCharactereValue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kapri\\AppData\\Roaming\\NuGet\\NuGet.Config"
