@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RootNamespace>S2_01_DevoirMaisonLesPointeur</RootNamespace>
+  </PropertyGroup>
+
+</Project>
